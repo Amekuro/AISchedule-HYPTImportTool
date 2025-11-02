@@ -4,7 +4,7 @@
 async function scheduleTimer({
                              } = {}) {
   return {
-    totalWeek: 19,
+    totalWeek: 20,
     startSemester: '',
     startWithSunday: false,
     showWeekend: true,

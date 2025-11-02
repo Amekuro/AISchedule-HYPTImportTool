@@ -36,7 +36,7 @@ async function scheduleHtmlProvider() {
     const xqm = term === '1' ? '3' : '12'
 
     // 构造新的请求体
-    const body = `xnm=${year}&xqm=${xqm}&zs=8&kblx=1&doType=app`
+    const body = `xnm=${year}&doType=app&xqm=${xqm}&kblx=2`
 
     // 发送新的 fetch 请求
     const res = await fetch("https://jw.hypt.edu.cn/kbcx/xskbcxMobile_cxXsgrkb.html", {

@@ -34,7 +34,7 @@
   你以为这里会有什么，图片吗？
 </details>
 <details>
-  <summary>step6 点击中间的“学生课表查询”打开课表查询页面（周课表和学期课表都行）</summary>
+  <summary>step6 点击中间的“学生课表查询”打开课表查询页面，进入学期课表</summary>
   你以为这里会有什么，图片吗？
 </details>
 <details>

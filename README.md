@@ -48,3 +48,5 @@
 https://open-schedule-prod.ai.xiaomi.com/docs/#/help/
 
 https://zhul.in/2024/11/18/mi-ai-class-schedule-adapter-for-zjut/
+
+https://web.vip.miui.com/page/info/mio/mio/detail?postId=51260514
